@@ -16,4 +16,3 @@ function lessNumber() {
   counter--;
 }
 
-// Este codigo funciona pero puede ser mejor intentalo mehorar
